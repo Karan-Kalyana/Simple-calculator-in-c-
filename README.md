@@ -1,2 +1,2 @@
-# Simple-calculator-in-c-
+# Simple-calculator-in-c++
 A simple calculator for operation like (+,-,*,/)
